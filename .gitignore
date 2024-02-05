@@ -1,0 +1,10 @@
+*.env
+.env*
+**/*.env
+.env
+
+venv
+venv*
+**/venv
+
+.ipynb_checkpoints

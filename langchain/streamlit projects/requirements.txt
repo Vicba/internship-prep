@@ -1,0 +1,10 @@
+langchain
+openai
+streamlit
+python-dotenv
+langchain-openai
+faiss-cpu
+tiktoken
+pypdf
+PyPDF2
+weaviate-client
