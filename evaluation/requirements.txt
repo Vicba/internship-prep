@@ -1,0 +1,6 @@
+llama-index
+sentence-transformers
+cohere
+protobuf
+pypdf
+datasets
